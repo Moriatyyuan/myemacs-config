@@ -1,0 +1,24 @@
+#contributor : JinLei Wang <freebufer.wang@gmail.com>
+#name py
+# --
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+****************************************************************
+
+*@File: `(file-name-nondirectory (buffer-file-name))`
+*@Author: JinLei Wang
+*@E-Mail: 1976883731@qq.com
+*@GitHub: https://github.com/WJinLei
+*@CreatedAt: `(format-time-string "%F:%H:%M")`
+*@CreatedBy: Emacs
+*@Description: $0
+
+****************************************************************
+"""
+
+
+
+
+if __name__ == '__main__':
+    pass

@@ -1,0 +1,6 @@
+# contributor : JinLei Wang <1976883731@qq.com>
+# -*- mode: snippet -*-
+# name: script-src
+# key: script-src
+# --
+<script type="text/javascript" src="$1"></script>

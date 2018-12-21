@@ -1,0 +1,15 @@
+# contributor : JinLei Wang <1976883731@qq.com>
+# -*- mode: snippet -*-
+# name: html
+# key: html
+# --
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>$1</title>
+    </head>
+    <body>
+        $0
+    </body>
+</html>

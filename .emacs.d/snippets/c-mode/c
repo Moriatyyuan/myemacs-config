@@ -1,0 +1,22 @@
+# contributor : JinLei Wang <1976883731@qq.com>
+# -*- mode: snippet -*-
+# name: c
+# key: ic 
+# --
+/*
+****************************************************************
+
+*@File: `(file-name-nondirectory (buffer-file-name))`
+*@Author: JinLei Wang
+*@E-Mail: 1976883731@qq.com
+*@GitHub: https://github.com/WJinLei
+*@CreatedAt: `(format-time-string "%F:%H:%M")`
+*@CreatedBy: Emacs
+*@Description: $0
+
+****************************************************************
+*/
+#include <stdio.h>
+
+
+
