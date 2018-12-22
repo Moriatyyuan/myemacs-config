@@ -548,6 +548,11 @@ Replaces default behaviour of comment-dwim, when it inserts comment at the end o
 ;; 自动调整imenu-list窗口大小
 ;; (setq imenu-list-auto-resize t)
 
+;; 实现选择后自动关闭imenu-list窗口
+(advice-add 'imenu-list-goto-entry :after
+            #'(lambda (&rest args)
+                (imenu-list-smart-toggle)))
+
 ;;========================================================================================
 ;;                                   shell相关说明
 ;;========================================================================================
